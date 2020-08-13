@@ -1,0 +1,21 @@
+==================
+RESOLUCOES DE TELA
+==================
+L X A
+640x480
+800x600
+1024x768
+1200x768 <= Pior resolução 
+1280x1024 <= Padrão de Mercado
+1366x768 <= Padrão Futuro!
+1380x620
+1920x1080
+
+
+===================
+TIPOS DE TAG NO CSS
+===================
+
+TAGS DE BLOCO (block) - ACEITAM DEFINIÇÃO DE LARGURA E ALTURA (DIMENSÕES) => <H1></H1>
+TAGS DE LINHA (inline) - NÃO ACEITAM DEFINIÇÃO DE LARGURA E ALTURA (DIMENSÕES) => <A></A>
+
